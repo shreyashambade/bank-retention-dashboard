@@ -133,7 +133,7 @@ Executive Summary for Stakeholders
 
 ## Live Dashboard
 
-https://bank-retention-dashboard-vnxumdgpvj2zq6frqoecbx.streamlit.app/
+https://bank-customer-retention-intelligence-9ocqhkuxbky3xurmsrpbsm.streamlit.app/
 
 ---
 
