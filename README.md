@@ -1,6 +1,7 @@
 # Customer Engagement & Product Utilization Analytics for Retention Strategy
 
 ## Project Overview
+
 Banks increasingly recognize that customer engagement and product utilization play a critical role in long-term retention. Customers may appear financially strong based on balance or salary but may still churn due to weak engagement with banking services.
 
 This project analyzes customer engagement patterns, product adoption behavior, and financial commitment indicators to understand how they influence customer churn.
@@ -11,12 +12,14 @@ The project includes Exploratory Data Analysis (EDA), retention KPIs, and an int
 
 ## Project Objectives
 
-### Primary Objectives
+Primary Objectives
+
 • Evaluate the relationship between customer engagement and churn  
 • Measure the retention impact of product count and product mix  
 • Identify high-value disengaged customers  
 
-### Secondary Objectives
+Secondary Objectives
+
 • Support engagement-driven retention strategies  
 • Improve product bundling decisions  
 • Reduce silent churn among premium customers  
@@ -102,6 +105,7 @@ The dashboard allows dynamic analysis using:
 
 Python  
 Pandas  
+NumPy  
 Plotly  
 Streamlit  
 Data Visualization  
@@ -113,7 +117,7 @@ Exploratory Data Analysis
 
 Install required libraries:
 
-pip install streamlit pandas plotly
+pip install streamlit pandas plotly numpy
 
 Run the dashboard:
 
@@ -127,7 +131,6 @@ Exploratory Data Analysis Notebook
 Interactive Streamlit Dashboard  
 Research Paper (EDA insights and retention recommendations)  
 Executive Summary for Stakeholders  
-
 
 ---
 
